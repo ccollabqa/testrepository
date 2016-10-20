@@ -5,3 +5,4 @@ test line
 newString
 newString
 newString
+newString
